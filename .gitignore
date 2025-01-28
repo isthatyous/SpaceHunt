@@ -1,0 +1,60 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Vite
+dist/
+.vite/
+*.log
+
+# Local IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.lock
+*.log
+
+# Build output
+build/
+out/
+.cache/
+*.tmp
+*.gz
+
+# Coverage
+coverage/
+*.lcov
+*.lcov.info
+
+# Logs
+logs/
+*.log
+
+# React-specific
+public/*.map
+
+# Typescript
+*.tsbuildinfo
+
+# Miscellaneous
+*.bak
+*.old
+
+# MacOS
+._*
