@@ -1,2 +1,2 @@
 # SpaceHunt
-A comprehensive real estate platform designed for seamless property listing and exploration. Built with a modern stack, it integrates secure user authentication, real-time chat functionality, and accurate geolocation services. The project allows users to easily browse available properties, connect with agents, and inquire about listings
+A comprehensive real estate platform designed for efficient property search, listing management, and client interaction. Features include real-time chat, secure user authentication, advanced filters, and a robust notification system, tailored for property seekers and real estate professionals.

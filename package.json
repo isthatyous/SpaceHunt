@@ -1,0 +1,15 @@
+{
+  "name": "spacehunt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start:api": "pnpm --filter api dev",
+    "start:client": "pnpm --filter client dev",
+    "start:socket": "pnpm --filter socket dev",
+    "build": "pnpm --filter client build",
+    "start": "concurrently \"pnpm start:api\" \"pnpm start:client\" \"pnpm start:socket\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}
